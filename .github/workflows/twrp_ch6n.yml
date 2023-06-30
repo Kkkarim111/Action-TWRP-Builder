@@ -1,4 +1,4 @@
-name: Recovery Build
+name: twrp_ch6n
 
 on:
   workflow_dispatch:
